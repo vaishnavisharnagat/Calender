@@ -43,7 +43,7 @@ Smart-GUI-Calendar/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-gui-calendar.git
+git clone [https://github.com/yourusername/smart-gui-calendar](https://github.com/vaishnavisharnagat/Calender.git)
 ```
 
 ### 2. Open the Project Folder
